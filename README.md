@@ -14,7 +14,6 @@
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
-- :school: I am a `Computer Science Fresh Graduate` from Faculty of Computers & Information at Suez University
 - 🔭 I’m currently working on **IM(instant messaging)app**
 - 🌱 I’m currently learning **FLUTTER/DART**
 -   📫 How to reach me **anass12976@gmail.com**
