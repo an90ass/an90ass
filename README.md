@@ -1,13 +1,21 @@
 <h1 align="center">Hi 👋, I'm Anas AL-Maqtari</h1>
 <h3 align="center">A lifelong learner studying Computer Engineering (3/4) at Bartın University in Turkeyer from Yemen</h3> 
 
-- 🔭 I’m currently working on **IM(instant messaging)app**  
-- 🌱 I’m currently learning **FLUTTER/DART**
--   📫 How to reach me **anass12976@gmail.com** 
+ 
 
-<div align="center">
-  <img src="https://github.com/an90ass/an90ass/assets/91754070/48dbc88c-4c50-4f0a-8ddd-b6024e8d5f82" alt="Profile Image" width="200" style="border-radius: 50%;">
-</div>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=manarshahin48&label=Profile%20views&color=0e75b6&style=flat" alt="manarshahin48" />
+		   <img src="https://img.shields.io/github/followers/manarshahin48?label=Followers" alt="manarshahin48" />
+</p>
+<br>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
+
+- :school: I am a `Computer Science Fresh Graduate` from Faculty of Computers & Information at Suez University
+- 🔭 I’m currently working on **IM(instant messaging)app**
+- 🌱 I’m currently learning **FLUTTER/DART**
+-   📫 How to reach me **anass12976@gmail.com**
+- :nerd_face: Always `learning new things`
+- 🐼 Doing my best 
 
 
 <h3 align="left">Connect with me:</h3>
