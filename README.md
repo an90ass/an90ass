@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/github/repos/an90ass?label=Repositories&style=flat" alt="Repositories" />
+ <img src="https://img.shields.io/github/repos/an90ass?label=Repositories" alt="an90ass" />
 </p>
 
 <br>
