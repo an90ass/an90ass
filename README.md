@@ -19,11 +19,16 @@
 -   📫 How to reach me **anass12976@gmail.com**
 - :nerd_face: Always `learning new things`
 - 🐼 Doing my best 
+## 📩 Connect with me
+<p align="center">
+    <a href="anass12976@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
 
+    <a href="https://linkedin.com/in/anas al-maqtari" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anas al-maqtari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas al-maqtari" height="30" width="40" /></a>
+<a href="https:" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anas al-maqtari" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -34,3 +39,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=an90ass&show_icons=true&locale=en" alt="an90ass" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=an90ass&" alt="an90ass" /></p>
+Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
