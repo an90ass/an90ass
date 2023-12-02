@@ -21,10 +21,9 @@
 - 🐼 Doing my best 
 ## 📩 Connect with me
 <p align="center">
-    <a href="anass12976@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"</a>  
-
-        <a href=https://www.linkedin.com/in/anas-a-12815124b" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"</a>  
-
+    <a href="anass12976@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/gmail-%23F05033.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+<a href="https:" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/anas-a-12815124b/" title="LinkedIn"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
 </p>
 
 
