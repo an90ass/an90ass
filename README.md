@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anas AL-Maqtari</h1>
-<h3 align="center">A lifelong learner studying Computer Engineering (3/4) at Bartın University in Turkeyer from Yemen</h3> 
+<h3 align="center">A lifelong learner studying Computer Engineering (4/4) at Bartın University in Turkey from Yemen</h3> 
 
  
 
