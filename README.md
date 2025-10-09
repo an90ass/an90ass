@@ -1,8 +1,9 @@
 <div align="center">
 
-# 👨‍💻 Anas AL-Maqtari
+#  Anas AL-Maqtari
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&random=false&width=600&lines=Software+Engineering+Master's+Student;Mobile+Developer+%7C+Flutter+Expert;AI+%26+Machine+Learning+Enthusiast;From+Yemen+%F0%9F%87%BE%F0%9F%87%AA+Based+in+Turkey+%F0%9F%87%B9%F0%9F%87%B7" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&random=false&width=600&lines=Mobile+Developer" alt="Typing SVG" />
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=an90ass&label=Profile%20Views&color=7AA2F7&style=for-the-badge" alt="Profile views" />
@@ -13,7 +14,7 @@
 
 </div>
 
-## 🎓 About Me
+##  About Me
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
@@ -33,7 +34,6 @@ fields_of_interests:
 technical_background:
   - Flutter & Dart Development
   - Python Programming
-  - Firebase Integration
   - Cross-platform Solutions
 
 currently_learning: ["Advanced ML", "Cloud Architecture", "System Design"]
@@ -42,27 +42,27 @@ hobbies: ["Coding", "Problem Solving", "Tech Innovation"]
 
 <br/>
 
-## 🚀 What I Do
+##  What I Do
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
-| 💼 **Expertise** | 🔧 **Working On** | 🎯 **Focus Areas** |
+|  **Expertise** |  **Working On** |  **Focus Areas** |
 |:---:|:---:|:---:|
-| Flutter Development | AI/ML Projects | Mobile Apps |
-| Firebase Integration | Research Papers | Cloud Solutions |
+| Flutter Development | Mobile & AI/ML Projects | Mobile Apps |
+| Firebase & API Integration | Research Papers | Cloud Solutions |
 | UI/UX Design | Open Source | Innovation |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
-### 📱 Mobile Development
+###  Mobile Development
 <p>
   <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
@@ -70,21 +70,21 @@ hobbies: ["Coding", "Problem Solving", "Tech Innovation"]
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 </p>
 
-### 💾 Backend & Database
+###  Backend & Database
 <p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-### 🔤 Programming Languages
+###  Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
-### 🤖 AI/ML & Tools
+###  AI/ML & Tools
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -96,7 +96,7 @@ hobbies: ["Coding", "Problem Solving", "Tech Innovation"]
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header"/>
@@ -134,7 +134,7 @@ hobbies: ["Coding", "Problem Solving", "Tech Innovation"]
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <div align="center">
   
@@ -161,7 +161,7 @@ hobbies: ["Coding", "Problem Solving", "Tech Innovation"]
 
 <div align="center">
   
-### 💭 Quote of the Day
+###  Quote of the Day
   
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7AA2F7&center=true&vCenter=true&random=true&width=600&lines=Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.;First%2C+solve+the+problem.+Then%2C+write+the+code.;Experience+is+the+name+everyone+gives+to+their+mistakes.;In+order+to+be+irreplaceable%2C+one+must+always+be+different.;Make+it+work%2C+make+it+right%2C+make+it+fast." alt="Dev Quotes"/>
 
