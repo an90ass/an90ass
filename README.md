@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anas AL-Maqtari</h1>
-<h3 align="center">A lifelong learner studying Computer Engineering (4/4) at Bartın University in Turkey from Yemen</h3> 
+<h3 align="center">A Master's student in Software Engineering at Kocaeli University, Turkey 🇹🇷, from Yemen 🇾🇪</h3>
 
  
 
@@ -14,8 +14,7 @@
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
-- 🔭 I’m currently working on **E-commerce**
-- 🌱 I’m currently learning **Flutter/Dart**
+-   🌱 Ask me about **Flutter, Dart, and Python**
 -   📫 How to reach me **anass12976@gmail.com**
 - :nerd_face: Always `learning new things`
 - 🐼 Doing my best 
