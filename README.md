@@ -10,8 +10,8 @@
   <img src="https://img.shields.io/github/followers/an90ass?label=Followers&style=for-the-badge&color=F7768E&labelColor=1A1B27" alt="followers" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0x02569B,0x0175C2,0x42A5F5&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:0175C2,100:42A5F5&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+</div>
 </div>
 
 ##  About Me
@@ -99,7 +99,7 @@ hobbies: ["Coding", "Problem Solving", "Tech Innovation"]
 ##  GitHub Analytics
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:0175C2,100:42A5F5&height=100&section=header"/>
 </div>
 
 <br/>
@@ -156,7 +156,7 @@ hobbies: ["Coding", "Problem Solving", "Tech Innovation"]
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:0175C2,100:42A5F5&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=70"/>
 </div>
 
 <div align="center">
