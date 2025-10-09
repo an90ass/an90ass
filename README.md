@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/github/followers/an90ass?label=Followers&style=for-the-badge&color=F7768E&labelColor=1A1B27" alt="followers" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0x02569B,0x0175C2,0x42A5F5&height=180&section=header&text=Welcome%20to%20My%20Profile&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 </div>
 
