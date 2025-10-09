@@ -66,16 +66,28 @@
 
 
 
-## 📊 Github Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=an90ass&theme=tokyonight_duo" alt="an90ass" /></p>
-  <br/>
-  <p align="center">
-	    <img alt="an90ass's Github Stats" src="https://github-readme-stats.vercel.app/api?username=an90ass&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=an90ass&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="an90ass" height="230px"/>
-<br/>
+## 📊 GitHub Analytics
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
+<div align="center">
+  
+### Contribution Streak
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=an90ass&theme=tokyonight_duo&hide_border=true&stroke=0D1117&background=0D1117&ring=7AA2F7&fire=F7768E&currStreakLabel=7AA2F7)](https://git.io/streak-stats)
+
+### Performance Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=an90ass&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&icon_color=F7768E&text_color=C0CAF5" alt="GitHub Statistics" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=an90ass&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7AA2F7&text_color=C0CAF5" alt="Most Used Languages" height="180em"/>
+</p>
+
+### Activity Graph
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=an90ass&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7AA2F7&line=F7768E&point=C0CAF5)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<sub>💡 **Note:** Language statistics represent the distribution of public repository code and serve as a general indicator rather than a comprehensive measure of expertise or proficiency.</sub>
+
+</div>
 
 
 
